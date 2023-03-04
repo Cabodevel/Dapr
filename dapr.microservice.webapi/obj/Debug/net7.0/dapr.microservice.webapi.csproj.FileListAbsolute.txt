@@ -38,3 +38,4 @@ C:\Users\carlo\source\repos\Dapr\dapr.microservice.webapi\bin\Debug\net7.0\dapr.
 C:\Users\carlo\source\repos\Dapr\dapr.microservice.webapi\bin\Debug\net7.0\dapr.microservice.webapi.pdb
 C:\Users\carlo\source\repos\Dapr\dapr.microservice.webapi\obj\Debug\net7.0\dapr.microservice.webapi.genruntimeconfig.cache
 C:\Users\carlo\source\repos\Dapr\dapr.microservice.webapi\obj\Debug\net7.0\ref\dapr.microservice.webapi.dll
+C:\Users\carlo\source\repos\Dapr\dapr.microservice.webapi\bin\Debug\net7.0\launch.json
