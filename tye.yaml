@@ -1,0 +1,15 @@
+# tye application configuration file
+# read all about it at https://github.com/dotnet/tye
+#
+# when you've given us a try, we'd love to know what you think:
+#    https://aka.ms/AA7q20u
+#
+name: hello-world-debug
+extensions:
+- name: dapr
+services:
+- name: dapr-microservice-webapi
+  project: dapr.microservice.webapi/dapr.microservice.webapi.csproj
+- name: dapr-microservice-webapi2
+  project: dapr.microservice.webapi2/dapr.microservice.webapi2.csproj
+  
