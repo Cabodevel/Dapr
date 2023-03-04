@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PMiJ8GH92uNUuysz67YV9l0EFSMSPR2eQtQsRR4GlSQ=",
+  "Source": "dapr.microservice.webapi2",
+  "BasePath": "_content/dapr.microservice.webapi2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

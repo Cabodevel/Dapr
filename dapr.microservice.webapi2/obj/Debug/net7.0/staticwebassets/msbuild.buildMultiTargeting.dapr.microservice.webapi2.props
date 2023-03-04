@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dapr.microservice.webapi2.props" />
+</Project>
